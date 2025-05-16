@@ -171,13 +171,3 @@ groups:
    ```
 
 2. Tambahkan ke `systemd` jika ingin jalan otomatis.
-
----
-
-Kalau kamu mau, saya bisa bantu:
-
-* Menyediakan versi Docker Compose lengkap termasuk Alertmanager.
-* Membuat notifikasi alert ke Slack, Telegram, Email, dsb.
-* Setup di server secara langsung (jika remote SSH tersedia).
-
-Ingin saya bantu buatkan Compose YAML lengkap dengan semua komponen (Prometheus, Grafana, node\_exporter, Alertmanager)?
