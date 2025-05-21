@@ -184,21 +184,21 @@ Node Exporter adalah sebuah agent (exporter) yang berjalan di server untuk mengu
 
 > Node Exporter adalah salah satu exporter paling penting dalam ekosistem Prometheus, digunakan untuk memonitor infrastruktur server secara menyeluruh.
 
-## 1. Download Prometheus dan Node Exporter
+## 1. Download Node Exporter
 
 ```bash
 wget https://github.com/prometheus/node_exporter/releases/download/v1.9.1/node_exporter-1.9.1.linux-amd64.tar.gz
 ls -l
 ```
 
-## 2. Extraksi File Prometheus dan Node Exporter
+## 2. Extraksi File Node Exporter
 
 ```bash
 tar xvf node_exporter-1.9.1.linux-amd64.tar.gz
 ls -l
 ```
 
-## 3. Memindah File Binari Prometheus untuk Bisa Mengakses Command Secara Langsung
+## 3. Memindah File Binari Node Exporter untuk Bisa Mengakses Command Secara Langsung
 
 ```bash
 cd node_exporter-1.9.1.linux-amd64
