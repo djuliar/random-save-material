@@ -1,10 +1,10 @@
+
+# Deployment Laravel ke Server Hosting
 | Pokok Bahasan | Deployment Laravel ke Server Hosting    |
 | ------------: | :-------------------------------------- |
 | Praktikum     | Workshop Sistem Informasi Web Framework |
 | Pengampu 	    | David Juli Ariyadi, S.Kom., M.Kom.      |
 | Minggu Ke-    | 14                                      |
-
-# Deployment Laravel ke Server Hosting
 
 ## A. Cara Deployment Awal
 1. Silahkan buka WinSCP, yang belum punya silahkan diinstall dahulu di [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
