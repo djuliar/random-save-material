@@ -53,7 +53,7 @@ FILESYSTEM_DISK=public
 php artisan storage:link
 ```
 
-## B. Cara Pertama (Memindahkan `index.php` di dalam folder public)
+## B. Cara Pertama (Memindahkan `index.php` dari folder public ke root)
 1. Buka folder public dan copy file `index.php` dan `.htaccess` ke root folder.
 2. Buka file `index.php` yang di root folder kemudian hapus bagian `../` agar direktori `storage`,`vendor` dan `bootstrap` terkoneksi dengan benar.
 3. Buka file `.env` lalu tambahkan pengaturan berikut agar css, javascript dan gambar bisa terkoneksi.
